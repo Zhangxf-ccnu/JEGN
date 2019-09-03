@@ -6,6 +6,7 @@ Contents of this archive
 ------------------------
 This archive contains 
 (1) pkg: subdirectory that contains the R package.
+(2) JEGN-manual: reference manual.
 (2) simulation: subdirectory that contains codes for carrying out simulation studies. Run the "demo_simulation_JEGN.R" file to perform simulation studies.
 (3) TCGA_BRCA: subdirectory that contains codes for applying JEGN to TCGA breast cancer datasets. Run the "TCGA_BRAC_Application.R" file to perform real data analysis.
 
