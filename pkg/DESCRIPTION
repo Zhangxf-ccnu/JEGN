@@ -1,0 +1,11 @@
+Package: JEGN
+Type: Package
+Title: JEGN
+Version: 1.0.1
+Author: Xiao-Fei Zhang
+Maintainer: Xiao-Fei Zhang  <zhangxf@mail.ccnu.edu.cn>
+Description: JEGN is a graphical model for joint estimation of gene networks across multiple subpopulations and data types. JGNI can deal with both Gaussian and nonparanormal data.  
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
